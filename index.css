@@ -12,7 +12,8 @@ tfoot {
 
 body {
   font-family: monospace;
-
+  background-color: black;
+  color: white;
 }
 
 td, th {
