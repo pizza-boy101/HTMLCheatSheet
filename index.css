@@ -1,6 +1,6 @@
 table {
     border: 1px solid #333;
-    color: black;
+    background-color: black;
     margin: 0 auto;
 }
 
@@ -12,6 +12,7 @@ tfoot {
 
 body {
   font-family: monospace;
+  background-color: black;
 }
 
 td, th {
