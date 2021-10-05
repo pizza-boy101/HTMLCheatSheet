@@ -1,6 +1,6 @@
 table {
     border: 1px solid #333;
-    background-color: black;
+    background-color: #333;
     margin: 0 auto;
 }
 
@@ -31,6 +31,6 @@ h1 {
 }
 
 * {
-    background-color: black !important;
+    background-color: black;
     color: white !important;
 }
